@@ -1,0 +1,13 @@
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\bin\Debug\net8.0\HealthInsurance.Shared.deps.json
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\bin\Debug\net8.0\HealthInsurance.Shared.dll
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\bin\Debug\net8.0\HealthInsurance.Shared.pdb
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.AssemblyInfoInputs.cache
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.AssemblyInfo.cs
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.dll
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\refint\HealthInsurance.Shared.dll
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.pdb
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\ref\HealthInsurance.Shared.dll
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.csproj.AssemblyReference.cache
+C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Shared\obj\Debug\net8.0\HealthInsurance.Shared.sourcelink.json

@@ -1,0 +1,167 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = HealthInsurance.Client
+build_property.RootNamespace = HealthInsurance.Client
+build_property.ProjectDir = C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bo0hl\source\repos\HealthInsurance\HealthInsurance\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Components/ModalDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Components/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdpbmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Components/Popup.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQb3B1cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Components/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZWFyY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/Bills.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmlsbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/CompanyDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tcGFueURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/EditCompany.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdENvbXBhbnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/EditEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdEVtcGxveWVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/EditPolicy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFBvbGljeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/EmployeeAddPolicy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRW1wbG95ZWVBZGRQb2xpY3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/InsuranceCompany.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5zdXJhbmNlQ29tcGFueS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/ManageEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/PolicyManager.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9saWN5TWFuYWdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/PolicyOnEmployeeDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9saWN5T25FbXBsb3llZURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/PolicyRequestManager.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9saWN5UmVxdWVzdE1hbmFnZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Admin/PolicyStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUG9saWN5U3RhdHVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/ChangePassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhbmdlUGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/EmployeeOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/EmployeePolicyDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVQb2xpY3lEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/PolicyMakeRequest.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saWN5TWFrZVJlcXVlc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/PolicyOrder.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saWN5T3JkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Shared/AdminLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkbWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-patt9cmzd2
+
+[C:/Users/bo0hl/source/repos/HealthInsurance/HealthInsurance/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-oj80p9r0et
